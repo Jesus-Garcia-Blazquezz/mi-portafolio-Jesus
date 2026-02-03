@@ -2,8 +2,6 @@
 
 Portafolio personal responsive creado con HTML, CSS, JavaScript, Bootstrap y Sass. Incluye formulario de contacto con PHP y animaciones AOS.
 
-<img src="assets/FotoPersonal.jpeg" alt="Foto personal" />
-
 ## Características principales
 - Diseño responsivo con Bootstrap 5 (incluido localmente).
 - Animaciones con AOS (CDN).

@@ -95,5 +95,3 @@ Correo: `jesus.garbla@educa.jcyl.es`
 ## 📄 Licencia
 
 Actualmente no hay archivo LICENSE. Se recomienda añadir uno (por ejemplo **MIT**) si quieres permitir reutilización.
-
-```

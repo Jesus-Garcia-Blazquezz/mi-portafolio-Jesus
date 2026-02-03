@@ -110,7 +110,6 @@ Ejemplo de árbol reducido:
 
 ## Imágenes (ejemplos)
 Puedes colocar en README una vista previa de la foto o de proyectos:
-<img src="assets/FotoPersonal.jpeg" alt="Foto personal" width="250" />
 <img src="assets/Tecnologias_desarrollo.jpg" alt="Tecnologías" width="300" />
 <img src="assets/Imagen Aplicacion de seguridad.jpg" alt="App seguridad" width="300" />
 <img src="assets/Imagen Operaciones aritmeticas (Informatica).jpg" alt="Operaciones aritméticas" width="300" />

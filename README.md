@@ -97,6 +97,3 @@ Correo: `jesus.garbla@educa.jcyl.es`
 Actualmente no hay archivo LICENSE. Se recomienda añadir uno (por ejemplo **MIT**) si quieres permitir reutilización.
 
 ```
-
-✅ Esto ya es **un único bloque Markdown**, listo para pegar en tu repo sin cortar secciones ni separar bloques de código.  
-
